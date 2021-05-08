@@ -13,6 +13,12 @@
 		24CD244826470E8F009CBB88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24CD244626470E8F009CBB88 /* Main.storyboard */; };
 		24CD244A26470E90009CBB88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24CD244926470E90009CBB88 /* Assets.xcassets */; };
 		24CD244D26470E90009CBB88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24CD244B26470E90009CBB88 /* LaunchScreen.storyboard */; };
+		24CD245626470F0E009CBB88 /* breakfast pic.png in Resources */ = {isa = PBXBuildFile; fileRef = 24CD245526470F0E009CBB88 /* breakfast pic.png */; };
+		24CD245926470FE3009CBB88 /* fajitas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 24CD245826470FE3009CBB88 /* fajitas.jpeg */; };
+		24CD245C264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 24CD245B264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png */; };
+		24CD245F26471101009CBB88 /* chocolate-mousse.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 24CD245E26471101009CBB88 /* chocolate-mousse.jpeg */; };
+		24CD246226471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 24CD246126471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg */; };
+		24CD2465264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 24CD2464264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		24CD244926470E90009CBB88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24CD244C26470E90009CBB88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24CD244E26470E90009CBB88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24CD245526470F0E009CBB88 /* breakfast pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "breakfast pic.png"; path = "../../../Downloads/breakfast pic.png"; sourceTree = "<group>"; };
+		24CD245826470FE3009CBB88 /* fajitas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fajitas.jpeg; path = ../../../Downloads/fajitas.jpeg; sourceTree = "<group>"; };
+		24CD245B264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-05-08 at 9.30.50 AM.png"; path = "../../../Desktop/Screen Shot 2021-05-08 at 9.30.50 AM.png"; sourceTree = "<group>"; };
+		24CD245E26471101009CBB88 /* chocolate-mousse.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "chocolate-mousse.jpeg"; path = "../../../Downloads/chocolate-mousse.jpeg"; sourceTree = "<group>"; };
+		24CD246126471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Cookies-and-Cream-Oreo-Brownies4.jpeg"; path = "../../../Downloads/Cookies-and-Cream-Oreo-Brownies4.jpeg"; sourceTree = "<group>"; };
+		24CD2464264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-05-08 at 1.52.18 PM.png"; path = "../../../Desktop/Screen Shot 2021-05-08 at 1.52.18 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +69,14 @@
 			isa = PBXGroup;
 			children = (
 				24CD244026470E8F009CBB88 /* AppDelegate.swift */,
+				24CD245826470FE3009CBB88 /* fajitas.jpeg */,
+				24CD245526470F0E009CBB88 /* breakfast pic.png */,
+				24CD2464264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png */,
+				24CD245B264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png */,
+				24CD246126471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg */,
 				24CD244226470E8F009CBB88 /* SceneDelegate.swift */,
 				24CD244426470E8F009CBB88 /* ViewController.swift */,
+				24CD245E26471101009CBB88 /* chocolate-mousse.jpeg */,
 				24CD244626470E8F009CBB88 /* Main.storyboard */,
 				24CD244926470E90009CBB88 /* Assets.xcassets */,
 				24CD244B26470E90009CBB88 /* LaunchScreen.storyboard */,
@@ -125,8 +143,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				24CD244D26470E90009CBB88 /* LaunchScreen.storyboard in Resources */,
+				24CD245F26471101009CBB88 /* chocolate-mousse.jpeg in Resources */,
+				24CD245C264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png in Resources */,
 				24CD244A26470E90009CBB88 /* Assets.xcassets in Resources */,
+				24CD245926470FE3009CBB88 /* fajitas.jpeg in Resources */,
 				24CD244826470E8F009CBB88 /* Main.storyboard in Resources */,
+				24CD245626470F0E009CBB88 /* breakfast pic.png in Resources */,
+				24CD2465264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png in Resources */,
+				24CD246226471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
