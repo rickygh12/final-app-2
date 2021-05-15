@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2405B1A32650113400F9D23C /* brownies.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2405B1A22650113400F9D23C /* brownies.jpeg */; };
+		2405B1A62650113D00F9D23C /* Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2405B1A52650113D00F9D23C /* Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg */; };
+		2405B1A92650116000F9D23C /* Screen Shot 2021-05-15 at 9.22.41 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2405B1A82650116000F9D23C /* Screen Shot 2021-05-15 at 9.22.41 AM.png */; };
+		2405B1AC2650116400F9D23C /* Screen Shot 2021-05-15 at 9.23.44 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2405B1AB2650116400F9D23C /* Screen Shot 2021-05-15 at 9.23.44 AM.png */; };
 		24CD244126470E8F009CBB88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CD244026470E8F009CBB88 /* AppDelegate.swift */; };
 		24CD244326470E8F009CBB88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CD244226470E8F009CBB88 /* SceneDelegate.swift */; };
 		24CD244526470E8F009CBB88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CD244426470E8F009CBB88 /* ViewController.swift */; };
@@ -22,6 +26,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2405B1A22650113400F9D23C /* brownies.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = brownies.jpeg; path = ../../../Downloads/brownies.jpeg; sourceTree = "<group>"; };
+		2405B1A52650113D00F9D23C /* Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg"; path = "../../../Downloads/Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg"; sourceTree = "<group>"; };
+		2405B1A82650116000F9D23C /* Screen Shot 2021-05-15 at 9.22.41 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-05-15 at 9.22.41 AM.png"; path = "../../../Desktop/Screen Shot 2021-05-15 at 9.22.41 AM.png"; sourceTree = "<group>"; };
+		2405B1AB2650116400F9D23C /* Screen Shot 2021-05-15 at 9.23.44 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2021-05-15 at 9.23.44 AM.png"; path = "../../../Desktop/Screen Shot 2021-05-15 at 9.23.44 AM.png"; sourceTree = "<group>"; };
 		24CD243D26470E8F009CBB88 /* final app 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "final app 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24CD244026470E8F009CBB88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24CD244226470E8F009CBB88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,8 +81,12 @@
 				24CD245526470F0E009CBB88 /* breakfast pic.png */,
 				24CD2464264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png */,
 				24CD245B264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png */,
+				2405B1AB2650116400F9D23C /* Screen Shot 2021-05-15 at 9.23.44 AM.png */,
+				2405B1A82650116000F9D23C /* Screen Shot 2021-05-15 at 9.22.41 AM.png */,
 				24CD246126471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg */,
+				2405B1A22650113400F9D23C /* brownies.jpeg */,
 				24CD244226470E8F009CBB88 /* SceneDelegate.swift */,
+				2405B1A52650113D00F9D23C /* Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg */,
 				24CD244426470E8F009CBB88 /* ViewController.swift */,
 				24CD245E26471101009CBB88 /* chocolate-mousse.jpeg */,
 				24CD244626470E8F009CBB88 /* Main.storyboard */,
@@ -142,14 +154,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2405B1A92650116000F9D23C /* Screen Shot 2021-05-15 at 9.22.41 AM.png in Resources */,
 				24CD244D26470E90009CBB88 /* LaunchScreen.storyboard in Resources */,
 				24CD245F26471101009CBB88 /* chocolate-mousse.jpeg in Resources */,
 				24CD245C264710FA009CBB88 /* Screen Shot 2021-05-08 at 9.30.50 AM.png in Resources */,
 				24CD244A26470E90009CBB88 /* Assets.xcassets in Resources */,
 				24CD245926470FE3009CBB88 /* fajitas.jpeg in Resources */,
+				2405B1AC2650116400F9D23C /* Screen Shot 2021-05-15 at 9.23.44 AM.png in Resources */,
 				24CD244826470E8F009CBB88 /* Main.storyboard in Resources */,
+				2405B1A62650113D00F9D23C /* Easy-Banana-Cream-Pie-SpendWithPennies-2.jpeg in Resources */,
 				24CD245626470F0E009CBB88 /* breakfast pic.png in Resources */,
 				24CD2465264715FA009CBB88 /* Screen Shot 2021-05-08 at 1.52.18 PM.png in Resources */,
+				2405B1A32650113400F9D23C /* brownies.jpeg in Resources */,
 				24CD246226471531009CBB88 /* Cookies-and-Cream-Oreo-Brownies4.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
